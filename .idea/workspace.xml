@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0780589d-ef17-444f-a6be-317aa4e85e27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.10.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-agent-1.10.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mockito-core-3.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/objenesis-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake-and-ladders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/GameNotOverException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/IDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/FirstSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/LadderSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/LastSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/NoWormholeExitsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/RollAgainSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/SkipSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/SnakeSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/StandardSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/WormholeEntranceSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakes/squares/WormholeExitSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/coverage_of_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/FirstSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/GamePlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/LadderSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/LastSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/MockDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/RollAgainSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/StandardSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/squares/SkipSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/squares/WormholeEntranceSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/snakes/squares/WormholeExitSquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Leyiztokvan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Leyiztokvan/snake-and-ladders.git",
+    "accountId": "713db5dd-5946-46d3-9427-3b7ffef24486"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2irgcJ8lZ9wrvdmo3EmYGoSJzGt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Game.executor": "Run",
+    "JUnit.FirstSquareTest (1).executor": "Run",
+    "JUnit.FirstSquareTest.executor": "Run",
+    "JUnit.snakes in snake-and-ladders.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ubuntu/coding/p2/exercise04",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FirstSquareTest (1)">
+    <configuration name="FirstSquareTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snake-and-ladders" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstSquareTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snake-and-ladders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snakes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="snakes" />
+      <option name="MAIN_CLASS_NAME" value="snakes.FirstSquareTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="snakes in snake-and-ladders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snake-and-ladders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snakes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="snakes" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstSquareTest (1)" />
+        <item itemvalue="JUnit.snakes in snake-and-ladders" />
+        <item itemvalue="JUnit.FirstSquareTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0780589d-ef17-444f-a6be-317aa4e85e27" name="Changes" comment="" />
+      <created>1720254187917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720254187917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/snake_and_ladders$snakes_squares_in_snake_and_ladders.ic" NAME="snakes.squares in snake-and-ladders Coverage Results" MODIFIED="1720254394256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>snakes.squares.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/snake_and_ladders$SkipSquareTest.ic" NAME="SkipSquareTest Coverage Results" MODIFIED="1720254413433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>snakes.squares.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/snake_and_ladders$All_in_snake_and_ladders.ic" NAME="All in snake-and-ladders Coverage Results" MODIFIED="1720254379222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/snake_and_ladders$snakes_in_snake_and_ladders.ic" NAME="snakes in snake-and-ladders Coverage Results" MODIFIED="1720255519537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>snakes.*</FILTER>
+    </SUITE>
+  </component>
+</project>
