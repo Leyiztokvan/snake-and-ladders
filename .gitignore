@@ -1,9 +1,10 @@
-# Maven target folder
-/target/
-
 # IntelliJ IDEA
 /.idea/
 /*.iml
+
+# Build & Maven target folder
+/target/
+*.class
 
 # Logs
 *.log
@@ -12,9 +13,8 @@
 .DS_Store
 Thumbs.db
 
-# Coverage
-jacoco.exec
-
 # Temporary files
-*.class
 *.swp
+
+# Maven local repo cache
+.mvn/
